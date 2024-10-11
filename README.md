@@ -4,7 +4,7 @@ Simple end-to-end project for predicting stock prices using historical data.
 This project will invoilve the following steps:
 
 # Data Collection:
-I will use an API to collect stock market data.
+I use an API to collect stock market data.
 
 # Data Preprocessing:
 Cleaning and preparing the data.
